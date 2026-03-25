@@ -1,6 +1,6 @@
 # saffronties                                
                                                                                              
-this is my project. there are files in it. the python file is mess, this project is for courseworks and datastudio, so I am trying differnt things.                                              
+this is my project. there are files in it. the python file is a mess, this project is for courseworks and datastudio, so I am trying differnt things. thats why the mess.                                             
                                                                                              
   ## what is the project about?                                                                            
                                                                                              
